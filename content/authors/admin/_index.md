@@ -215,4 +215,5 @@ awards:
 
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a master’s student in Computer Technology at Zhejiang Gongshang University, specializing in knowledge graphs and artificial intelligence. I earned my bachelor’s degree in Computer Science and Technology from Henan Polytechnic University, where I built a solid foundation in algorithms and engineering implementation. My research focuses on the integration of large language models (LLMs) with knowledge graphs, particularly exploring multi-feature fusion techniques for knowledge representation and semantic retrieval.
+
