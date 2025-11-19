@@ -1,3 +1,18 @@
+---
+title: 👩🏼‍🏫 A Survey on Knowledge Graphs 
+summary:  Representation, Acquisition and Applications 笔记
+date: 2025-09-11
+math: true
+authors:
+  - admin
+tags:
+  - KGE
+  - RotaE
+  - Markdown
+image:
+  caption: 'Embed rich media such as videos and LaTeX math'
+---
+
 # A Survey on Knowledge Graphs: Representation, Acquisition and Applications 笔记
 
 # 知识图谱嵌入  

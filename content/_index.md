@@ -34,11 +34,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a master's student in Computer Technology at Zhejiang Gongshang University, specializing in knowledge graphs and artificial intelligence. I earned my bachelor's degree in Computer Science and Technology from Henan Polytechnic University, where I built a solid foundation in algorithms and engineering implementation.
-        My research focuses on the integration of large language models (LLMs) with knowledge graphs, particularly exploring multi-feature fusion techniques for knowledge representation and semantic retrieval. My first-author paper, “Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding,” has been accepted by IEEE Big Data 2025.
-        In terms of engineering practice, I am proficient in backend technologies such as Spring Boot, Redis, RabbitMQ, and Docker, with hands-on experience in distributed and microservice development. I independently designed and implemented an LLM-based intelligent knowledge base system.
-        I am passionate about combining artificial intelligence with real-world applications, aiming to develop efficient and trustworthy data intelligence systems.
-    
+          I am currently a master’s student in Computer Technology at Zhejiang Gongshang University, specializing in knowledge graphs and artificial intelligence. I received my bachelor’s degree in Computer Science and Technology from Henan Polytechnic University, where I built a strong foundation in algorithms and engineering implementation.
+          
+          My research focuses on integrating large language models (LLMs) with knowledge graphs, particularly exploring multi-feature fusion techniques for knowledge representation and semantic retrieval. My first-author paper, “Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding,” has been accepted by IEEE Big Data 2025.
+        
+          In terms of engineering practice, I am skilled in backend technologies such as Spring Boot, Redis, RabbitMQ, and Docker, and I have hands-on experience with distributed systems and microservice development. I independently designed and implemented an LLM-based intelligent knowledge base system. In addition, I built a YOLO-based object detection system and contributed to developing a sign-language recognition teaching system, applying vision models to practical educational scenarios.
+        
+          I am passionate about combining artificial intelligence with real-world applications and aim to develop efficient and trustworthy data-intelligence systems.
     design:
       columns: '1'
 ---

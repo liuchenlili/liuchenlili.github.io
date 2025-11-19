@@ -1,7 +1,7 @@
 ---
 title: 👩🏼‍🏫 八股文
 summary: 面试八股文
-date: 2023-10-24
+date: 2025-10-24
 math: true
 authors:
   - admin

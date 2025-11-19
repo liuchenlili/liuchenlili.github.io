@@ -46,6 +46,8 @@ profiles:
 
 interests:
   - Large Language Models
+  - Knowledge Graphs
+  - Natural Language Processing
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
@@ -168,7 +170,7 @@ languages:
   - name: PyTorch
     percent: 85
   - name: Java
-    percent: 85
+    percent: 90
 
 
 # Awards.
@@ -215,5 +217,4 @@ awards:
 
 ---
 
-I am a master’s student in Computer Technology at Zhejiang Gongshang University, specializing in knowledge graphs and artificial intelligence. I earned my bachelor’s degree in Computer Science and Technology from Henan Polytechnic University, where I built a solid foundation in algorithms and engineering implementation. My research focuses on the integration of large language models (LLMs) with knowledge graphs, particularly exploring multi-feature fusion techniques for knowledge representation and semantic retrieval.
-
+十年饮冰，难凉热血。
